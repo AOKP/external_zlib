@@ -1,0 +1,9 @@
+Change-Id: I2f774199394240ef493af1661fec71bcec23eb56
+Code-Review+2: Roman Birg <romanbirg@gmail.com>
+Verified+1: Roman Birg <romanbirg@gmail.com>
+Code-Review+1: Jonathan Steadman <xxwhitehawk@gmail.com>
+Submitted-by: Roman Birg <romanbirg@gmail.com>
+Submitted-at: Sat, 23 Jun 2012 18:17:22 -0400
+Reviewed-on: http://gerrit.sudoservers.com/1324
+Project: AOKP/external_zlib
+Branch: refs/heads/ics
